@@ -22,7 +22,6 @@ connection = mysql.connector.connect(
             host='127.0.0.1', 
             database='prj_ver2')
 
-
 class login1_class:
     def __init__(self, root):
         self.root = root
@@ -268,7 +267,7 @@ class login1_class:
         self.register_button['command'] = self.register
 
 # function to close window
-    def close_win(self, sth):
+    def close_win(self):
         root.destroy()
 
 # functions to make word disappear when being clicked

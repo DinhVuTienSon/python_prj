@@ -233,6 +233,7 @@ class BillClass:
 
         self.show()
         #self.bill_top()
+
 #==============functions===================================
 
 # function to show product detail

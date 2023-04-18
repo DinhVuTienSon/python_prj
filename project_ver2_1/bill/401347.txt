@@ -4,20 +4,20 @@
 ................................................
     		       BILL
 
-Customer Name: thang
-Contact Number: 1786478634
-Date: 03,04,2023  104949 
-Bill No. 135372
+Customer Name: st
+Contact Number: 1517863248
+Date: 17,04,2023  230924 
+Bill No. 401347
         
 Product		Price/unit		Qty	 Total
         
         
- pork		 15.0		 3	 45.0
+ milk		 4.0		 3	 12.0
 
 	   (Price already include tax)
 
 ................................................
-Reference Number                135372
+Reference Number                401347
 ................................................
    Tax Invoice will be issued within same day
 ................................................

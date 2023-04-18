@@ -18,7 +18,6 @@ connection = mysql.connector.connect(
             host='127.0.0.1', 
             database='prj_ver2')
         
-
 class modify_product_class:
     def __init__(self, root):
         self.root = root

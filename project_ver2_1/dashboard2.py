@@ -47,9 +47,8 @@ class IMS:
         lbl_image2=Label(main_frame,image=self.photo2,bd=0, bg="white")
         lbl_image2.place(x=560,y=65)
 
-        log_out_button = Button(self.root, text="Sign out", cursor="hand2", font=('elaris',20), bg="#d13715", fg="white",command= self.sign_out)
-        log_out_button.place(x=1100, y=5)
-
+        """log_out_button = Button(self.root, text="Sign out", cursor="hand2", font=('elaris',20), bg="#d13715", fg="white",command= self.sign_out)
+        log_out_button.place(x=1100, y=5)"""
         """button_modify_product = Button(self.root, text = ">> Modify",command=self.modify_product, font = ("elaris", 20, "bold"), bg="#242323", bd=0, cursor="hand2", fg="#de108b").pack(side = TOP, fill = X)
         button_bill = Button(self.root, text = ">> Bill", command=self.sale, font = ("elaris", 20, "bold"), bg="#242323", bd=0, cursor="hand2", fg="#de108b").pack(side = TOP, fill = X)
 
